@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\dalto\Documents\CSE335\GPA Calculator\GPA Calculator\Source.cpp(30,14): warning C4101: 'fail': unreferenced local variable
+C:\Users\dalto\Documents\CSE335\GPA Calculator\GPA Calculator\Source.cpp(55,18): warning C4101: 'grade_fail': unreferenced local variable
+C:\Users\dalto\Documents\CSE335\GPA Calculator\GPA Calculator\Source.cpp(73,18): warning C4101: 'fail': unreferenced local variable
+C:\Users\dalto\Documents\CSE335\GPA Calculator\GPA Calculator\Source.cpp(94,15): warning C4101: 'fail': unreferenced local variable
+  GPA Calculator.vcxproj -> C:\Users\dalto\Documents\CSE335\GPA Calculator\Debug\GPA Calculator.exe
